@@ -1,0 +1,8 @@
+C:\Users\vizhanyobence\Downloads\20251013_vizhanyobence\uzenetRogzito\bin\Debug\uzenetRogzito.exe.config
+C:\Users\vizhanyobence\Downloads\20251013_vizhanyobence\uzenetRogzito\bin\Debug\uzenetRogzito.exe
+C:\Users\vizhanyobence\Downloads\20251013_vizhanyobence\uzenetRogzito\bin\Debug\uzenetRogzito.pdb
+C:\Users\vizhanyobence\Downloads\20251013_vizhanyobence\uzenetRogzito\obj\Debug\uzenetRogzito.csproj.AssemblyReference.cache
+C:\Users\vizhanyobence\Downloads\20251013_vizhanyobence\uzenetRogzito\obj\Debug\uzenetRogzito.csproj.CoreCompileInputs.cache
+C:\Users\vizhanyobence\Downloads\20251013_vizhanyobence\uzenetRogzito\obj\Debug\uzenetRogzito.exe
+C:\Users\vizhanyobence\Downloads\20251013_vizhanyobence\uzenetRogzito\obj\Debug\uzenetRogzito.pdb
+C:\Users\vizhanyobence\Downloads\20251013_vizhanyobence\uzenetRogzito\obj\Debug\uzenetRogzito.exe.config
